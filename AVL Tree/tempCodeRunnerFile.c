@@ -1,0 +1,2 @@
+
+	insert(&pohon, 5);
